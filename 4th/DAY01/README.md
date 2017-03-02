@@ -1,6 +1,4 @@
-###### Front-End Design CAMP
-
-# DAY01
+###### DAY01
 
 ### 웹 디자인/개발 환경 구성
 
